@@ -4,6 +4,17 @@
 
 项目基于[vue-manage-system](https://github.com/lin-xin/vue-manage-system)修改
 
+## 项目截图
+
+### 登录
+
+![Image text](https://www.develophm.com/picture/login.png)
+
+### 默认皮肤
+
+![Image text](https://www.develophm.com/picture/home.png)
+
+
 ## 特别鸣谢
 
 - [开发之家](https://www.develophm.com/)
@@ -36,7 +47,7 @@
 ## 安装步骤
 
 ```
-git clone https://github.com/LiuGaoMeng/vue-map-demo.git      // 把模板下载到本地
+git clone https://github.com/lin-xin/vue-manage-system.git      // 把模板下载到本地
 cd vue-manage-system    // 进入模板目录
 npm install         // 安装项目依赖，等待安装完成之后，安装失败可用 cnpm 或 yarn
 
