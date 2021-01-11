@@ -1,7 +1,9 @@
 # vue-map-demo
 
 基于 Vue + Element UI 的后台管理系统解决方案。(项目基于)
-项目基于vue-manage-system(https://github.com/lin-xin/vue-manage-system)修改
+
+项目基于[vue-manage-system](https://github.com/lin-xin/vue-manage-system)修改
+
 ## 项目截图
 
 ### 登录
