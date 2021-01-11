@@ -4,26 +4,6 @@
 
 项目基于[vue-manage-system](https://github.com/lin-xin/vue-manage-system)修改
 
-## 项目截图
-
-### 登录
-
-![Image text](https://www.develophm.com/picture/login.png)
-
-### 默认皮肤
-
-![Image text](https://www.develophm.com/picture/home.png)
-
-<!-- ### 浅绿色皮肤
-
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png) -->
-
-## 赞赏
-
-请作者喝杯咖啡吧！(微信号：liiiic6331)
-
-![微信扫一扫](https://www.develophm.com/picture/winxin.png)
-
 ## 特别鸣谢
 
 - [开发之家](https://www.develophm.com/)
@@ -56,7 +36,7 @@
 ## 安装步骤
 
 ```
-git clone https://github.com/lin-xin/vue-manage-system.git      // 把模板下载到本地
+git clone https://github.com/LiuGaoMeng/vue-map-demo.git      // 把模板下载到本地
 cd vue-manage-system    // 进入模板目录
 npm install         // 安装项目依赖，等待安装完成之后，安装失败可用 cnpm 或 yarn
 
@@ -176,4 +156,4 @@ import 'element-ui/lib/theme-default/index.css'; // 默认主题
 
 ## License
 
-[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
+[MIT](https://github.com/LiuGaoMeng/vue-map-demo/blob/master/LICENSE)
